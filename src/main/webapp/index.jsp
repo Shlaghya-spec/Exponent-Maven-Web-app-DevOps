@@ -1,8 +1,8 @@
 <html>
 <body>
 <h1><font color='blue'> Hope You are doing Well!!!<font></h1>
-<h1><font color='blue'> Good Morning!!!<font></h1>
-<h1><font color='blue'> Welcome to EXPONENT IT (BATCH-38) - AWS - Devops - Linux <font></h1>
+<h1><font color='blue'> Good afternoon!!!<font></h1>
+<h1><font color='blue'> Welcome to EXPONENT IT (BATCH-37) - AWS - Devops - Linux <font></h1>
 
 <a href="https://www.exponent-it.com/">Click Here To See EXPONENT IT Training Schedules</a>
   
