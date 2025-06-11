@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='blue'> Hope You are doing Great!!!<font></h1>
+<h1><font color='blue'> Hope You are doing well!!!<font></h1>
 <h1><font color='blue'> Good evening!!!<font></h1>
 <h1><font color='blue'> Welcome to EXPONENT IT (BATCH-DevOps) - AWS - Devops - Linux <font></h1>
 
